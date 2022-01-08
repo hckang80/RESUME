@@ -7,9 +7,15 @@ Hee-chang Kang / 姜熙彰
 
 코드 리뷰에 진심인 개발자
 
-Techs: Javascript(ES6) HTML5 CSS3 Nuxt.js(Vue.js)
+Techs:
 
-Tools: Jira Notion Bitburkit Github Figma
+![JS](https://img.shields.io/badge/ES6-Javascript-%23F7DF1E)
+![HTML](https://img.shields.io/badge/-HTML5-%23E34F26)
+![CSS](https://img.shields.io/badge/-CSS3-%231572B6)
+![VUE](https://img.shields.io/badge/Nuxt-Vue.js-%234FC08D)
+
+Tools:
+Jira Notion Bitburkit Github Figma
 
 <hr>
 
@@ -28,7 +34,7 @@ Tools: Jira Notion Bitburkit Github Figma
 - 마치 레고와 같은 작은 단위의 함수로 작성하려 노력합니다. 이는 재사용이 가능하고 읽기 쉬우므로 생산성이 증가한다고 생각합니다.
 
 **현재는 이러한 것들에 관심을 가지며 학습하고 있습니다.**
-- [Nuxt3.js(Vue) 기반 클론 코딩](https://github.com/hckang80/nuxt3-clone-zigzag)
+- [Nuxt3.js(Vue)를 활용한 클론 코딩](https://github.com/hckang80/nuxt3-clone-zigzag)
 <hr>
 
 ## 경력기술
