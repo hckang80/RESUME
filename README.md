@@ -22,10 +22,10 @@ Linkedin: https://www.linkedin.com/in/hee-chang-kang-b3a7ba160
 
 **Tools**:
 
-<mark>Jira</mark>
-<mark>Notion</mark>
-<mark>Bitburkit</mark>
-<mark>Github</mark>
+<mark>Jira</mark>,
+<mark>Notion</mark>,
+<mark>Bitburkit</mark>,
+<mark>Github</mark>,
 <mark>Figma</mark>
 
 <hr>
@@ -64,75 +64,75 @@ Linkedin: https://www.linkedin.com/in/hee-chang-kang-b3a7ba160
 ## 경력사항
 - 2018.06 ~
 
-  **SentBe** (핀테크 스타트업) / Product Group / 프론트엔드 개발자
+  ## **SentBe** (핀테크 스타트업) / Product Group / 프론트엔드 개발자
 
-  > SentBe 서비스 신규 개발 및 운영
+  ### **SentBe 서비스 신규 개발 및 운영**
 
-  ### Description
-  - B2C 해외송금 서비스
+  - Description
+    - B2C 해외송금 서비스
 
-  ### Todos
-  - Composition API + Typescript 도입
-  - 환불 시스템 자동화
-  - Firebase 기반 소셜로그인 구현
-  - Global 서비스 런칭
-  - 서비스 메인 랜딩 페이지 전면 개편
+  - Todos
+    - Composition API + Typescript 도입
+    - 환불 시스템 자동화
+    - Firebase 기반 소셜로그인 구현
+    - Global 서비스 런칭
+    - 서비스 메인 랜딩 페이지 전면 개편
 
-  ### Tech stack
-  - Nuxt.js(Vue), Sass, Element UI
-
-  <br>
-
-  > Admin Dashboard
-
-  ### Description
-  - B2C 해외송금 서비스의 관리자 대시보드
-
-  ### Todos
-  - 기본적인 UX와 API만 제공 받고 최초 설계부터 대부분의 기능 구현
-
-  ### Tech stack
-  - Vue.js, Sass, Element UI
+  - Tech stack
+    - Nuxt.js(Vue), Sass, Element UI
 
   <br>
 
-  > Fx Rates
+  ### **Admin Dashboard**
 
-  ### Description
-  - 환율 관제 대시보드
+  - Description
+    - B2C 해외송금 서비스의 관리자 대시보드
 
-  ### Todos
-  - API만 제공 받고 최초 설계부터 모든 기능 구현
-  - 최초 배포 이후, 드물게 추가 메뉴의 CRUD 구현
+  - Todos
+    - 기본적인 UX와 API만 제공 받고 최초 설계부터 대부분의 기능 구현
 
-  ### Tech stack
-  - Vue.js, Sass, Element UI
-
-  <br>
-
-  > Data Center
-
-  ### Description
-  - B2C 해외송금 서비스의 송금 추이 및 고객 분포 등을 알 수 있는 데이터 시각화 대시보드
-
-  ### Todos
-  - 기본적인 UX와 API만 제공 받고 최초 설계부터 모든 기능 구현
-
-  ### Tech stack
-  - Vue.js, Sass, Element UI, Chart.js
+  - Tech stack
+    - Vue.js, Sass, Element UI
 
   <br>
 
-  > SentBe Rates
+  ### **Fx Rates**
 
-  ### Description
-  - 국가별 환율 모니터링이 가능한 서비스
+  - Description
+    - 환율 관제 대시보드
 
-  ### Todos
-  - 최초 설계부터 모든 기능 구현
+  - Todos
+    - API만 제공 받고 최초 설계부터 모든 기능 구현
+    - 최초 배포 이후, 드물게 추가 메뉴의 CRUD 구현
 
-  ### Tech stack
-  - Vue.js, Sass
+  - Tech stack
+    - Vue.js, Sass, Element UI
+
+  <br>
+
+  ### **Data Center**
+
+  - Description
+    - B2C 해외송금 서비스의 송금 추이 및 고객 분포 등을 알 수 있는 데이터 시각화 대시보드
+
+  - Todos
+    - 기본적인 UX와 API만 제공 받고 최초 설계부터 모든 기능 구현
+
+  - Tech stack
+    - Vue.js, Sass, Element UI, Chart.js
+
+  <br>
+
+  ### **SentBe Rates**
+
+  - Description
+    - 국가별 환율 모니터링이 가능한 단일 페이지 서비스
+
+  - Todos
+    - 최초 설계부터 모든 기능 구현
+
+  - Tech stack
+    - Vue.js, Sass
 
 <hr>
 
