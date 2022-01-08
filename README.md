@@ -1,6 +1,8 @@
 # 이력서 (RESUME)
 
-코드 리뷰에 진심인 개발자
+<img width="200" src="https://avatars.githubusercontent.com/u/7262465?v=4" alt="">
+
+## 코드 리뷰에 진심인 개발자
 
 이름: 강희창
 
@@ -13,14 +15,14 @@ Linkedin: https://www.linkedin.com/in/hee-chang-kang-b3a7ba160
 ![Pass Javascript](https://img.shields.io/badge/PASS-Javascript-%23F7DF1E)
 ![Pass CSS3](https://img.shields.io/badge/PASS-CSS3-%231572B6)
 
-**Techs**:
+Techs:
 
 ![ES6 Javascript](https://img.shields.io/badge/ES6-Javascript-%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E34F26)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6)
 ![Nuxt.js Vue.js](https://img.shields.io/badge/Nuxt.js-Vue.js-%234FC08D)
 
-**Tools**:
+Tools:
 
 <mark>Jira</mark>,
 <mark>Notion</mark>,
