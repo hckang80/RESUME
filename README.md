@@ -73,7 +73,7 @@ Tools:
   - Description
     - B2C 해외송금 서비스
 
-  - Todos
+  - Done
     - Composition API + Typescript 도입
     - 환불 시스템 자동화
     - Firebase 기반 소셜로그인 구현
@@ -90,7 +90,7 @@ Tools:
   - Description
     - B2C 해외송금 서비스의 관리자 대시보드
 
-  - Todos
+  - Done
     - 기본적인 UX와 API만 제공 받고 최초 설계부터 대부분의 기능 구현
 
   - Tech stack
@@ -103,7 +103,7 @@ Tools:
   - Description
     - 환율 관제 대시보드
 
-  - Todos
+  - Done
     - API만 제공 받고 최초 설계부터 모든 기능 구현
     - 최초 배포 이후, 드물게 추가 메뉴의 CRUD 구현
 
@@ -117,7 +117,7 @@ Tools:
   - Description
     - B2C 해외송금 서비스의 송금 추이 및 고객 분포 등을 알 수 있는 데이터 시각화 대시보드
 
-  - Todos
+  - Done
     - 기본적인 UX와 API만 제공 받고 최초 설계부터 모든 기능 구현
 
   - Tech stack
@@ -130,7 +130,7 @@ Tools:
   - Description
     - 국가별 환율 모니터링이 가능한 단일 페이지 서비스
 
-  - Todos
+  - Done
     - 최초 설계부터 모든 기능 구현
 
   - Tech stack
