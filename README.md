@@ -2,7 +2,14 @@
 
 <img width="200" src="https://avatars.githubusercontent.com/u/7262465?v=4" alt="">
 
-## 코드 리뷰에 진심인 개발자
+<details>
+  <summary>코드 리뷰에 진심인 개발자</summary>
+
+  <img src="./images/review 2022-01-06 pm 1.12.09.png" alt="">
+  <img src="./images/review 2022-01-06 pm 1.52.06.png" alt="">
+</details>
+
+<br>
 
 이름: 강희창
 
