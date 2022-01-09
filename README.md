@@ -3,7 +3,7 @@
 <img width="200" src="https://avatars.githubusercontent.com/u/7262465?v=4" alt="">
 
 <details>
-  <summary>코드 리뷰에 진심인 개발자</summary>
+  <summary>코드 리뷰에 진심인 개발자 (클릭)</summary>
 
   <img src="./images/review 2022-01-06 pm 1.12.09.png" alt="">
   <img src="./images/review 2022-01-06 pm 1.52.06.png" alt="">
@@ -46,7 +46,7 @@ Tools:
 - Best practice, 클린코드를 지향하며 근본적인 해결을 위해 항상 고민합니다. 작성한 코드에 찜찜함이 남았다면 관련 자료를 찾아보며 더 나은 코드로 작성하는 결과를 가져옵니다.
 - 마치 레고와 같은 작은 단위의 함수로 작성하려 노력합니다. 이는 재사용이 가능하고 읽기 쉬우므로 생산성이 증가한다고 생각합니다.
 
-**다음은 관심있는 기술 및 학습 내용입니다.**
+**다음은 활발히 진행 중인 학습 내용입니다. 코드 스타일을 확인할 수 있습니다.**
 - [Nuxt3.js(Vue)를 활용한 클론 코딩](https://github.com/hckang80/nuxt3-clone-zigzag)
 
 <hr>
@@ -66,7 +66,8 @@ Tools:
 
 ### Vue.js
 - Vuex의 Mutations를 남용하지 않습니다. 이러한 측면에서 [Pinia](https://pinia.vuejs.org/)를 좋아합니다.
-- 동적 컴포넌트를 활용할 수 있고 Stateless한 재사용 컴포넌트를 제작할 수 있습니다.
+- 동적 컴포넌트를 활용할 수 있고 Stateless한 컴포넌트로 제작하여 재사용합니다.
+- Option API, Composition API 모두 능숙합니다.
 
 <hr>
 
@@ -144,7 +145,7 @@ Tools:
     - Vue.js, Sass
 
 <details>
-  <summary>퍼블리셔 경력</summary>
+  <summary>퍼블리셔 경력사항</summary>
 
 - 2015.07 ~ 2017.09
 
@@ -178,7 +179,7 @@ Tools:
 
   ### **SKTworld 홈페이지 리뉴얼**
 
-  - Done
+  - Experience
     - SVN 형상관리 시스템 사용
     - 다수(8명) 작업자간의 협업 경험
 
@@ -186,7 +187,7 @@ Tools:
 
   ### **교보전자도서관 웹사이트 구축**
 
-  - Done
+  - Experience
     - 소규모(2명) 협업 경험
 
   <br>
