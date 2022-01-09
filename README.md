@@ -243,3 +243,8 @@ Tools:
   한국직업전문학교(웹미디어 디자인 38기)
 
   웹퍼블리셔, 디자인 과정 수료
+
+## Contact
+<a href="mailto:hckang80@gmail.com"><img src="./images/svg/gmail.svg" alt="gmail"></a>
+<a href="https://github.com/hckang80"><img src="./images/svg/github.svg" alt="github"></a>
+<a href="https://www.linkedin.com/in/hee-chang-kang-b3a7ba160"><img src="./images/svg/linkedin.svg" alt="linkedin"></a>
