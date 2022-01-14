@@ -5,8 +5,9 @@
 <details>
   <summary>코드 리뷰에 진심인 개발자 (클릭)</summary>
 
-  <img src="./images/review 2022-01-06 pm 1.12.09.png" alt="">
-  <img src="./images/review 2022-01-06 pm 1.52.06.png" alt="">
+  <img src="./images/review01.png" alt="">
+  <img src="./images/review02.png" alt="">
+  <img src="./images/review03.png" alt="">
 </details>
 
 <br>
