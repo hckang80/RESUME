@@ -26,6 +26,7 @@ Linkedin: https://www.linkedin.com/in/hee-chang-kang-b3a7ba160
 Techs:
 
 ![ES6 Javascript](https://img.shields.io/badge/ES6-Javascript-%23F7DF1E)
+![Typescript](https://img.shields.io/badge/-Typescript-%23007ACC)
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E34F26)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6)
 ![Nuxt.js Vue.js](https://img.shields.io/badge/Nuxt.js-Vue.js-%234FC08D)
