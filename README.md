@@ -49,7 +49,7 @@ Tools:
 - 마치 레고와 같은 작은 단위의 함수로 작성하려 노력합니다. 이는 재사용이 가능하고 읽기 쉬우므로 생산성이 증가한다고 생각합니다.
 
 **지그재그 앱 일부를 웹으로 구현해 봤습니다. 코드 스타일을 확인할 수 있습니다.**
-- [Nuxt3.js(Vue)를 활용한 클론 코딩](https://github.com/hckang80/nuxt3-clone-zigzag)
+- [Nuxt3.js(Vue)를 활용한 클론 코딩](https://github.com/hckang80/nuxt3-clone-zigzag#지그재그-앱-클론-코딩)
 
 <hr>
 
