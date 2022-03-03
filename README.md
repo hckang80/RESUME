@@ -147,7 +147,7 @@ Tools:
     - Vue.js, Sass
 
 <details>
-  <summary>퍼블리셔 경력사항</summary>
+  <summary>퍼블리셔 경력사항 (끊임없이 7년 9개월)</summary>
 
 - 2015.07 ~ 2017.09
 
