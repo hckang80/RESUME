@@ -84,6 +84,7 @@ Tools:
     - B2C 해외송금 서비스
 
   - Done
+    - 미국 송금 런칭
     - Composition API + Typescript 도입
     - 환불 시스템 자동화
     - Firebase 기반 소셜로그인 구현
