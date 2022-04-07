@@ -109,6 +109,19 @@ Tools:
 
   <br>
 
+  ### **혜택 탭**
+
+  - Description
+    - 웹뷰로 제공하는 앱내 단일 메뉴
+
+  - Done
+    - 내 쿠폰함, 쿠폰 목록, 내 등급, 친구 초대 등의 화면 제작
+
+  - Tech stack
+    - Vue.js, Sass, Bootstrap Vue
+
+  <br>
+
   ### **Fx Rates**
 
   - Description
