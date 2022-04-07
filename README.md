@@ -69,7 +69,7 @@ Tools:
 ### Vue.js
 - Vuex의 Mutations를 남용하지 않습니다. 이러한 측면에서 [Pinia](https://pinia.vuejs.org/)를 좋아합니다.
 - 동적 컴포넌트를 활용할 수 있고 Stateless한 컴포넌트로 제작하여 재사용합니다.
-- Option API, Composition API 모두 능숙합니다.
+- [Options API](https://v3.vuejs-korea.org/api/options-api.html), [Composition API](https://v3.vuejs-korea.org/api/composition-api.html) 모두 능숙합니다.
 
 <hr>
 
