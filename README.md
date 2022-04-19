@@ -5,6 +5,7 @@
 <details>
   <summary>코드 리뷰에 진심인 개발자 (클릭)</summary>
 
+  <img src="./images/review00.png" alt="">
   <img src="./images/review01.png" alt="">
   <img src="./images/review02.png" alt="">
   <img src="./images/review03.png" alt="">
