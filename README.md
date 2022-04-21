@@ -78,6 +78,7 @@ Tools:
 - 2018.06 ~
 
   ## **SentBe** (핀테크 스타트업) / Product Group / 프론트엔드 개발자
+  https://company.sentbe.com/
 
   ### **SentBe 서비스 신규 개발 및 운영**
 
