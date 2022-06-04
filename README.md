@@ -76,7 +76,15 @@ Tools:
 <hr>
 
 ## 경력사항
-- 2018.06 ~
+- 2022.06 ~
+
+  ## **Uprise** (핀테크 스타트업) / 헤이비트 / 프론트엔드 개발자
+  https://www.uprise.financial/
+  https://www.heybit.io/
+
+ <br> 
+
+- 2018.06 ~ 2022.06
 
   ## **SentBe** (핀테크 스타트업) / Product Group / 프론트엔드 개발자
   https://company.sentbe.com/
