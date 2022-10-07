@@ -31,6 +31,7 @@ Techs:
 ![Typescript](https://img.shields.io/badge/-Typescript-%23007ACC)
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E34F26)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6)
+![SvelteKit Svelte](https://img.shields.io/badge/SvelteKit-Svelte.js-%23FF3E00)
 ![Nuxt.js Vue.js](https://img.shields.io/badge/Nuxt.js-Vue.js-%234FC08D)
 
 Tools:
