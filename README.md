@@ -81,8 +81,15 @@ Tools:
 
   ## **Uprise** (핀테크 스타트업) / 헤이비트 / 프론트엔드 개발자
   https://www.uprise.financial/
-  https://www.heybit.io/
+  
+  ### **디파이** https://www.heybit.io/defi
 
+  - Description
+    - 탈중앙화된 금융을 통한 자동 재테크
+
+  - Done
+    - 베타서비스 개발(2022.06 ~ 2022.09.14) 및 운영
+    
  <br> 
 
 - 2018.06 ~ 2022.06
