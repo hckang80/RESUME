@@ -90,7 +90,19 @@ Tools:
 
   https://www.uprise.financial/
 
-  ### 디파이 https://www.heybit.io/defi
+  ### Heybit Global https://www.heybit.com
+
+  - Description
+
+    - 퀀트 알고리즘 기반의 자동 수익 창출
+
+  - Done
+
+    - ForeFront Plus, BE(Beyond Essential) 전략 출시
+
+    - 신규 기능 개발 및 운영
+
+  ### Heybit DeFi https://www.heybit.io/defi
 
   - Description
 
