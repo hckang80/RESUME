@@ -106,7 +106,7 @@ Tools:
 
   - Description
 
-    - 탈중앙화(Decentralized Finance) 금융을 통한 자동 수익 창출
+    - 복잡하고 어려운 디파이(Decentralized Finance) 투자를 간편하게 해주는 서비스
 
   - Done
 
