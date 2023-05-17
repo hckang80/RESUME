@@ -90,17 +90,7 @@ Tools:
 
   https://www.uprise.financial/
 
-  ### Heybit Global https://www.heybit.com
-
-  - Description
-
-    - 고객이 보다 편하고 안전하게 투자할 수 있는 자동투자 (로보어드바이저) 서비스
-
-  - Done
-
-    - ForeFront Plus, BE(Beyond Essential) 전략 출시
-
-    - 신규 기능 개발 및 운영
+  ### Heybit 주요 서비스 개발
 
   ### Heybit DeFi https://www.heybit.io/defi
 
