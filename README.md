@@ -20,7 +20,7 @@ E-mail: hckang80@gmail.com
 
 Github: https://github.com/hckang80
 
-Linkedin: https://www.linkedin.com/in/hee-chang-kang-b3a7ba160
+Linkedin: https://www.linkedin.com/in/heechang-kang-b3a7ba160/
 
 ![Pass Javascript](https://img.shields.io/badge/PASS-Javascript-%23F7DF1E)
 ![Pass CSS3](https://img.shields.io/badge/PASS-CSS3-%231572B6)
@@ -31,7 +31,7 @@ Techs:
 ![Typescript](https://img.shields.io/badge/-Typescript-%23007ACC)
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E34F26)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6)
-![SvelteKit Svelte](https://img.shields.io/badge/SvelteKit-Svelte.js-%23FF3E00)
+![SvelteKit Svelte](https://img.shields.io/badge/SvelteKit-Svelte-%23FF3E00)
 ![Nuxt.js Vue.js](https://img.shields.io/badge/Nuxt.js-Vue.js-%234FC08D)
 
 Tools:
@@ -69,8 +69,8 @@ Tools:
 
 ### Javascript
 
-- ES6 이전의 문법보다는 이후의 문법을 선호합니다. 좀 더 세련된 가독성 좋은 코드 작성이 가능하다고 생각하기 때문입니다.
-- else, else if, switch 등의 조건문을 지양하며 Object literal로 표현합니다.
+- ES6 이후의 문법을 선호합니다. 좀 더 세련된 가독성 좋은 코드 작성이 가능하다고 생각하기 때문입니다.
+- else, else if, switch 등의 조건문을 지양하며 Object literal로 표현하여 가독성 있는 코드로 작성합니다.
 - Array.prototype.forEach 보다는 순수 함수로 작성할 수 있는 map, reduce 등을 선호합니다.
 - 실행 컨텍스트, 호이스팅 등의 근본 지식을 이해하며 설명할 수 있습니다.
 
@@ -92,7 +92,7 @@ Tools:
 
   ### Heybit 주요 서비스 개발
 
-  ### Heybit DeFi https://www.heybit.io/defi
+  ### Heybit DeFi
 
   - Description
 
@@ -282,7 +282,7 @@ Tools:
 
 ## 기타 활동
 
-- 2012 ~
+- 2012 ~ 2022
 
   [하드코딩하는사람들(네이버 카페) 스탭](https://cafe.naver.com/hacosa)
 
