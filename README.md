@@ -86,9 +86,17 @@ Tools:
 
 - 2022.06 ~
 
-  ## **Uprise** (핀테크 스타트업) / 헤이비트 / 프론트엔드 개발자
+  ## **Uprise** (핀테크 스타트업) / 프론트엔드 개발자
 
   https://www.uprise.financial/
+
+  ### 든든 웹앱 리뉴얼
+
+  - 초기 빌딩 작업부터 참여 (Vue.js -> Svelte)
+
+  ### <a href="https://storybook.dndn.io">든든 디자인 시스템 개발</a>
+
+  - sveltekit + storybook
 
   ### Heybit 주요 서비스 개발
 
