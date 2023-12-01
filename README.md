@@ -94,7 +94,7 @@ Tools:
 
   - 초기 빌딩 작업부터 참여 (Vue.js -> Svelte)
 
-  ### <a href="https://storybook.dndn.io">든든 디자인 시스템 개발</a>
+  ### <a href="https://github.com/uprise-fin/dndn-svelte-ui">든든 디자인 시스템 개발</a>
 
   - sveltekit + storybook
 
