@@ -91,7 +91,7 @@ Tools:
 
 ### 기타
 
-nuxt.js(vue.js)로 제작된 서비스를 sveltekit으로 이전한 경험이 있으며 sveltekit로 개발하는 것을 좋아합니다.
+nuxt.js로 제작된 서비스를 sveltekit으로 이전한 경험이 있으며 sveltekit로 개발하는 것을 좋아합니다.
 
 <hr>
 
@@ -105,7 +105,7 @@ nuxt.js(vue.js)로 제작된 서비스를 sveltekit으로 이전한 경험이 �
 
   ### 든든 웹앱 리뉴얼
 
-  - 초기 빌딩 작업부터 참여 (Vue.js -> Svelte)
+  - 초기 빌딩 작업부터 참여 (nuxt.js -> sveltekit)
 
   ### <a href="https://github.com/uprise-fin/dndn-svelte-ui">든든 디자인 시스템 개발</a>
 
