@@ -311,6 +311,8 @@ nuxt.js로 제작된 서비스를 sveltekit으로 이전한 경험이 있으며 
 
   [웹표준 파헤치기(개인 세미나) 진행](https://onoffmix.com/event/44035)
 
+
+  [테스트링크](http://localhost:8888/benefit/lottery)
 <hr>
 
 ## 교육 이수
