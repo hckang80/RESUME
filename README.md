@@ -5,6 +5,7 @@
 <details>
   <summary>코드 리뷰에 진심인 개발자 (클릭)</summary>
 
+  <img src="./images/review06.png" alt="">
   <img src="./images/review05.png" alt="">
   <img src="./images/review00.png" alt="">
   <img src="./images/review01.png" alt="">
@@ -115,7 +116,7 @@ sveltekit로 개발하는 것을 좋아합니다.
   ### <a href="https://github.com/uprise-fin/heybit-walk-svelte-ui">BBZB 디자인 시스템 개발</a>
 
   ### BBZB 웹앱 서비스 개발
-  
+
   ### 든든 웹앱 리뉴얼
 
   - 초기 빌딩 작업부터 참여 (nuxt.js -> sveltekit)
