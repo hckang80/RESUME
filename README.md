@@ -112,7 +112,7 @@ sveltekit로 개발하는 것을 좋아합니다.
 
   https://www.uprise.financial/
 
-  ### <a href="https://uprise-fin.github.io/heybit-walk-svelte-ui">BBZB 디자인 시스템 개발</a>
+  ### <a href="https://github.com/uprise-fin/heybit-walk-svelte-ui">BBZB 디자인 시스템 개발</a>
 
   ### BBZB 웹앱 서비스 개발
   
