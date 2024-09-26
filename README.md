@@ -111,6 +111,10 @@ nuxt.js로 제작된 서비스를 sveltekit으로 이전한 경험이 있으며 
 
   https://www.uprise.financial/
 
+  ### <a href="https://uprise-fin.github.io/heybit-walk-svelte-ui">BBZB 디자인 시스템 개발</a>
+
+  ### BBZB 웹앱 서비스 개발
+  
   ### 든든 웹앱 리뉴얼
 
   - 초기 빌딩 작업부터 참여 (nuxt.js -> sveltekit)
