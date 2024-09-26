@@ -20,7 +20,7 @@ E-mail: hckang80@gmail.com
 
 Github: https://github.com/hckang80
 
-Linkedin: https://www.linkedin.com/in/heechang-kang-b3a7ba160/
+Linkedin: https://www.linkedin.com/in/heechang-kang-b3a7ba160
 
 ![Pass Javascript](https://img.shields.io/badge/PASS-Javascript-%23F7DF1E)
 ![Pass CSS3](https://img.shields.io/badge/PASS-CSS3-%231572B6)
@@ -345,4 +345,4 @@ nuxt.js로 제작된 서비스를 sveltekit으로 이전한 경험이 있으며 
 
 <a href="mailto:hckang80@gmail.com"><img src="./images/svg/gmail.svg" alt="gmail"></a>
 <a href="https://github.com/hckang80"><img src="./images/svg/github.svg" alt="github"></a>
-<a href="https://www.linkedin.com/in/hee-chang-kang-b3a7ba160"><img src="./images/svg/linkedin.svg" alt="linkedin"></a>
+<a href="https://www.linkedin.com/in/heechang-kang-b3a7ba160"><img src="./images/svg/linkedin.svg" alt="linkedin"></a>
