@@ -104,13 +104,21 @@ Nuxt.js 및 SvelteKit을 활용하여 **다양한 서비스를 구축하고 운�
 
   https://www.uprise.financial/
 
+  ### BBZB 웹뷰 개발
+
+  - 만보기 리워드 서비스
+  - 최근 3개월 동안 개발에 참여하며 유의미한 성과 발생
+    - 누적 설치자 수 : 12K
+    - 회원 가입 수 : 7K
+    - DAU : 3K
+    - 인당 매출 : $0.0174
+
   ### <a href="https://github.com/uprise-fin/heybit-walk-svelte-ui">BBZB 디자인 시스템 개발</a>
 
-  ### BBZB 웹앱 서비스 개발
+  ### 든든 웹뷰 리뉴얼
 
-  ### 든든 웹앱 리뉴얼
-
-  - 초기 빌딩 작업부터 참여 (nuxt.js -> sveltekit)
+  - 자산 관리 서비스
+  - 기존 웹뷰를 nuxt.js -> sveltekit로 이전
 
   ### <a href="https://github.com/uprise-fin/dndn-svelte-ui">든든 디자인 시스템 개발</a>
 
