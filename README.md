@@ -35,6 +35,32 @@ Techs:
 ![SvelteKit Svelte](https://img.shields.io/badge/SvelteKit-Svelte-%23FF3E00)
 ![Nuxt.js Vue.js](https://img.shields.io/badge/Nuxt.js-Vue.js-%234FC08D)
 
+Skill Level:
+
+<label for="javascript">Javascript
+<meter id="javascript" min="0" max="10" low="5" value="9" style="width: 100%;">at 9/10</meter>
+</label>
+
+<label for="typescript">Typescript
+<meter id="typescript" min="0" max="10" low="5" value="8" style="width: 100%;">at 8/10</meter>
+</label>
+
+<label for="html">HTML
+<meter id="html" min="0" max="10" low="5" value="10" style="width: 100%;">at 10/10</meter>
+</label>
+
+<label for="css3">CSS3
+<meter id="css3" min="0" max="10" low="5" value="10" style="width: 100%;">at 10/10</meter>
+</label>
+
+<label for="svelte">Svelte
+<meter id="svelte" min="0" max="10" low="5" value="8" style="width: 100%;">at 8/10</meter>
+</label>
+
+<label for="vue">Vue.js
+<meter id="vue" min="0" max="10" low="5" value="7" style="width: 100%;">at 7/10</meter>
+</label>
+
 Tools:
 
 <mark>Jira</mark>,
