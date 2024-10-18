@@ -49,9 +49,15 @@ Tools:
 
 2016년부터 프론트엔드 개발자로 두 곳의 스타트업을 거치며 여러 제품을 만들고 동료와 협업했습니다. 이전에는 여러 에이전시에서 8년 정도 웹퍼블리셔, UI 개발자로 근무한 경험도 있습니다.
 
-업라이즈에서는 신규 서비스 개발, 웹뷰 운영, 서비스 마이그레이션, 디자인시스템 구축 등을 진행하면서 작은 규모 프론트엔드 팀의 실질적인 리더 역할도 겸했습니다. 센트비에서는 서비스를 운영하면서 데이터센터, 어드민 등의 백오피스를 단독으로 구축하고 운영했습니다.
+업라이즈에서는 신규 서비스 개발, 웹뷰 운영, 서비스 마이그레이션, _디자인시스템_ 구축 등을 진행하면서 작은 규모 프론트엔드 팀의 *실질적인 리더 역할*도 겸했습니다. 센트비에서는 서비스 운영을 주로 했고 데이터센터, 어드민 등의 회사의 핵심적인 *백오피스를 단독으로 구축*했습니다.
 
-동료간에 예의와 존중을 최우선으로 합니다. 이는 코드리뷰에서도 고스란히 들어납니다. 상대방의 기분을 언짢게 할 만한 언행을 절대하지 않으며 언성을 높이지 않습니다. 이를 통해 협업시 원활한 커뮤니케이션을 유지하며 마찰을 최소화할 수 있다고 생각합니다.
+동료간에 *예의와 존중을 최우선*으로 합니다. 이는 코드리뷰에서도 고스란히 들어납니다. 상대방의 기분을 언짢게 할 만한 언행을 절대하지 않으며 언성을 높이지 않습니다. 이를 통해 협업시 원활한 커뮤니케이션을 유지하며 마찰을 최소화할 수 있다고 생각합니다.
+
+*시간을 효율적으로 활용*합니다. 디자인이나 서버API를 전달받기 전까지 먼저 할수 있는 것들을 미리 구현하거나 관련자료를 찾아봅니다. 또한 기능 개발을 우선으로 진행하고 기술 부채나 고도화할 부분들을 메모해두어 잊지않고 개선해나갑니다. 바쁜 일정 속에서도 디 자인과 기능을 모두 신경 쓰기 위해 노력하며, UI/UX를 개선하는 데 적극적으로 참여합니다.
+
+*요청은 항상 의도와 함께 전달*합니다. 이를 통해, 좀 더 정확한 피드백을 받을 수 있기 때문에 커뮤니케이션 비용이 절감되는 경험을 얻었습니다. 반대로, 요청을 받았을 때도 무조건 받아들이기보단 의도를 묻고 더 정확한 피드백을 주기 위해 노력합니다.
+
+작성한 코드나 구현한 결과물 등을 *동료와 공유*하며 성취감을 느낍니다. 그리고 개발 트렌드, 컨퍼런스 정보, 소소한 팁 등을 공유하며 지식을 전파합니다. 단순히 링크만 공유하는 것이 아니라 짤막하게나마 느낌이나 생각을 덧붙여 공유합니다.
 
 <!-- <hr>
 
@@ -130,31 +136,30 @@ Tools:
 
   https://www.uprise.financial/
 
-  ### BBZB(만보기 리워드 서비스) 웹뷰 신규 개발
+  ### BBZB(만보기 리워드 서비스)웹뷰 신규 개발로 3개월 만에 DAU 3K 달성
 
-  - 주요기술: sveltekit, typescript, zod
-  - 액션바, 네비게이션 등 공통 컴포넌트 개발
-  - toast, dialog를 호출할 수 있는 store 기반의 시스템 개발
-  - sveltekit + storybook으로 디자인시스템([코드](https://github.com/uprise-fin/heybit-walk-svelte-ui))([데모](https://uprise-fin.github.io/heybit-walk-svelte-ui))을 개발하여 일관성 유지. 업무 효율 증가
+  - 액션바, 네비게이션 등 공통 UI를 컴포넌트로 개발하여 관리가 용이해짐
+  - toast, dialog를 편리하게 호출할 수 있도록 store 기반의 시스템 개발하여 업무 효율 증가
+  - sveltekit + storybook으로 디자인시스템([코드](https://github.com/uprise-fin/heybit-walk-svelte-ui))([데모](https://uprise-fin.github.io/heybit-walk-svelte-ui))을 개발하여 일관성을 유지하며 업무 효율 증가
   - 웹뷰 환경에서의 트러블 슈팅
-  - 최근 3개월 동안 진행하며 유의미한 성과 발생
   - 누적 설치: 12K, 회원가입: 7K, DAU: 3K
+  - 주요기술: sveltekit, typescript, zod
 
   ### 든든 웹뷰 서비스 운영 및 마이그레이션
 
-  - 주요기술: Nuxt.js(vue), sveltekit, typescript, zod
   - 레거시 서비스 운영 및 마이그레이션(nuxt.js -> sveltekit)을 진행
   - 레거시 서비스의 기술 부채 해결로 코드 안전성 확보. 업무 품질 향상
   - SNS 로그인 서비스 구축하여 유저 편의 향상
+  - 주요기술: Nuxt.js(vue), sveltekit, typescript, zod
 
   ### Heybit 웹 서비스 운영
 
-  - 주요기술: Nuxt.js(vue), sveltekit, typescript, zod
   - 화면 출력 속도 및 CLS 등의 웹 성능 최적화
   - [이미지 컴포넌트를 제작](https://velog.io/@_sky/%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%B5%9C%EC%A0%81%ED%99%94)하여 웹 성능 개선 및 개발 생산성 향상
   - 단일 상품으로 고정되어 있던 로직을 추가 가능한 형태로 확장
   - js로 작성된 스타일 로직을 css로 리팩토링
   - css 초기화 방식을 개선하여 스타일링의 괴로움 해소
+  - 주요기술: Nuxt.js(vue), sveltekit, typescript, zod
 
  <br>
 
@@ -164,36 +169,36 @@ Tools:
 
   https://company.sentbe.com/
 
-  ### 센트비 웹 서비스 운영
+  ### 센트비 웹 서비스 운영과 typescript 도입
 
-  - 주요기술: Nuxt.js(vue), Element UI
   - Options API를 Composition API로 마이그레이션하면서 typescript를 도입
   - Firebase 기반에서 SNS 로그인 구현
   - 메인 페이지 전면 리뉴얼
   - 단일 송금 국가(한국)로 고정되어 있던 로직을 추가 가능한 형태로 확장하고 싱가폴, 인도네시아 런칭
+  - 주요기술: Nuxt.js(vue), Element UI
 
     <br>
 
   ### Admin Dashboard 신규 개발(센트비 웹 어드민)
 
-  - 주요기술: vue.js, Element UI
   - 상세한 기획서 없이 간략한 틀과 API만 제공 받고 설계 및 대부분의 기능 구현
+  - 주요기술: vue.js, Element UI
 
     <br>
 
   ### Data Center
 
-  - 주요기술: vue.js, Element UI, Chart.js
   - 서비스의 송금 추이 및 고객 분포 등을 알 수 있는 데이터 시각화 대시보드
   - 차트를 구현한 것을 제외하면 Admin Dashboard와 비슷한 성격의 프로젝트
+  - 주요기술: vue.js, Element UI, Chart.js
 
     <br>
 
   ### SentBe Rates
 
-  - 주요기술: vue.js
   - 입사 후 첫 미션으로 주어졌던 프로젝트로 국가별 환율 모니터링이 가능한 단일 페이지
   - 간단한 todo list 구현 수준의 프로젝트
+  - 주요기술: vue.js
 
 <details>
   <summary>퍼블리셔 경력사항 (끊임없이 7년 9개월)</summary>
@@ -298,5 +303,4 @@ Tools:
 ## Contact
 
 <a href="mailto:hckang80@gmail.com"><img src="./images/svg/gmail.svg" alt="gmail"></a>
-<a href="https://github.com/hckang80"><img src="./images/svg/github.svg" alt="github"></a>
 <a href="https://www.linkedin.com/in/heechang-kang-b3a7ba160"><img src="./images/svg/linkedin.svg" alt="linkedin"></a>
