@@ -130,7 +130,7 @@ Tools:
 
 2022.06 ~ 2024.10
 
-## [업라이즈](https://www.uprise.financial)
+### [업라이즈](https://www.uprise.financial)
 
 로보어드바이저 서비스 스타트업 / 프론트엔드 개발자
 <br />
@@ -140,7 +140,7 @@ Tools:
 
 2018.06 ~ 2022.06
 
-## [SentBe](https://company.sentbe.com)
+### [SentBe](https://company.sentbe.com)
 
 해외 송금 서비스 스타트업 / 프론트엔드 개발자
 <br />
