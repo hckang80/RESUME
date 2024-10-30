@@ -35,11 +35,11 @@ Techs:
 
 Tools:
 
-<mark>Jira</mark>,
-<mark>Notion</mark>,
-<mark>Bitburkit</mark>,
-<mark>Github</mark>,
-<mark>Figma</mark>
+![Jira](https://img.shields.io/badge/Jira-%230052CC)
+![Notion](https://img.shields.io/badge/Notion-%23000000)
+![Bitburkit](https://img.shields.io/badge/Bitburkit-%230052CC)
+![Github](https://img.shields.io/badge/Github-%23181717)
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E)
 
 <hr>
 
