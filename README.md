@@ -21,25 +21,14 @@ E-mail: hckang80@gmail.com
 
 Linkedin: https://www.linkedin.com/in/heechang-kang-b3a7ba160
 
-![Pass Javascript](https://img.shields.io/badge/PASS-Javascript-%23F7DF1E)
-![Pass CSS3](https://img.shields.io/badge/PASS-CSS3-%231572B6)
-
 Techs:
 
-![ES6 Javascript](https://img.shields.io/badge/ES6-Javascript-%23F7DF1E)
-![Typescript](https://img.shields.io/badge/-Typescript-%23007ACC)
-![HTML5](https://img.shields.io/badge/-HTML5-%23E34F26)
-![CSS3](https://img.shields.io/badge/-CSS3-%231572B6)
-![SvelteKit Svelte](https://img.shields.io/badge/SvelteKit-Svelte-%23FF3E00)
-![Nuxt.js Vue.js](https://img.shields.io/badge/Nuxt.js-Vue.js-%234FC08D)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=svelte,react,nextjs,vue,nuxtjs,jquery)](https://skillicons.dev)
 
 Tools:
 
-![Jira](https://img.shields.io/badge/Jira-%230052CC)
-![Notion](https://img.shields.io/badge/Notion-%23000000)
-![Bitburkit](https://img.shields.io/badge/Bitburkit-%230052CC)
-![Github](https://img.shields.io/badge/Github-%23181717)
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E)
+[![My Skills](https://skillicons.dev/icons?i=notion,bitbucket,github,figma)](https://skillicons.dev)
 
 <hr>
 
