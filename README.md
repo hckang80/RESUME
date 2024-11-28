@@ -23,7 +23,7 @@ Linkedin: https://www.linkedin.com/in/heechang-kang-b3a7ba160
 
 Techs:
 
-[![My Skills](https://skillicons.dev/icons?i=ts,js,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,html,css)](https://skillicons.dev)  
 [![My Skills](https://skillicons.dev/icons?i=svelte,react,nextjs,vue,nuxtjs,jquery)](https://skillicons.dev)
 
 Tools:
